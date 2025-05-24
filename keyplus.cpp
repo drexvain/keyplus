@@ -1,3 +1,4 @@
+
 #include <windows.h>
 #include <fstream>
 #include <sstream>
@@ -25,7 +26,7 @@ string theone() {
 }
 //file to say dats by me lmao
 void shouldimakeitreadable() {
-    skjfh << "\n=== " << theone() << "klog by drexvain       ===\n";
+    skjfh << "\n=== " << theone() << "klog by drexvain ===\n";
     skjfh.flush();
 }
 
